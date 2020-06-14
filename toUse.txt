@@ -1,2 +1,1 @@
 1) To train your own model, you need to download the training and testing images for rock, paper, scissor.
-2) rockpaperscissor.h5 is a pretrained model you can use that by simply loading it.
